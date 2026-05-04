@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Diego
 
-<!--
-**masre05/masre05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student, and I enjoy developing projects that can be useful both for myself and for other people.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineering student
+- Interested in cryptography, cybersecurity, and software development
+- I enjoy creating projects, learning new technologies, and documenting what I build
+- Currently improving my technical profile and publishing projects on GitHub
+
+## Areas of interest
+
+- Software development
+- Cybersecurity
+- Cryptography
+- Quantum computing
+- Linux systems and environments
+- Automation and development tools
+
+## Technologies and tools
+
+```text
+Docker
+Linux
+Git
+Go
+Java
+Python
+GitHub
