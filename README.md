@@ -4,7 +4,7 @@ I'm a Computer Engineering graduate who enjoys building useful projects, both fo
 
 ## About me
 
-- Computer Engineering student
+- Computer Engineering graduate
 - Interested in cryptography, cybersecurity, and software development
 - I enjoy building projects, learning new technologies, and documenting my work
 - Currently focused on improving my technical profile and sharing projects on GitHub
