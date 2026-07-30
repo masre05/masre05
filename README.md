@@ -1,6 +1,6 @@
 # Hi, I'm Diego
 
-I'm a Computer Engineering student who enjoys building useful projects, both for myself and for others.
+I'm a Computer Engineering graduate who enjoys building useful projects, both for myself and for others.
 
 ## About me
 
